@@ -12,32 +12,33 @@ The system analyzes the data, identifies patterns, and presents results in both 
 
 ## 🛠️ Technologies Used
 🔹 Backend
-
 Python
+
 Flask
 
 🔹 Data Processing
-
 Pandas
+
 NumPy
 
 🔹 Visualization
-
 Matplotlib
+
 Plotly
 
 🔹 Report Generation
-
 ReportLab
 
 🔹 Frontend
-
 HTML
+
 CSS
 
 ## ⚙️ Features
 ✔ Upload CSV dataset
+
 ✔ Select column for analysis
+
 ✔ Apply filters (min/max values)
 ✔ Generate summary statistics (Total, Average, Min, Max)
 ✔ Create multiple graphs:
