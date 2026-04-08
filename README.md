@@ -12,24 +12,29 @@ The system analyzes the data, identifies patterns, and presents results in both 
 
 ## 🛠️ Technologies Used
 🔹 Backend
+
 Python
 
 Flask
 
 🔹 Data Processing
+
 Pandas
 
 NumPy
 
 🔹 Visualization
+
 Matplotlib
 
 Plotly
 
 🔹 Report Generation
+
 ReportLab
 
 🔹 Frontend
+
 HTML
 
 CSS
@@ -40,14 +45,19 @@ CSS
 ✔ Select column for analysis
 
 ✔ Apply filters (min/max values)
+
 ✔ Generate summary statistics (Total, Average, Min, Max)
+
 ✔ Create multiple graphs:
    Line Chart
    Bar Chart
    Pie Chart
    Histogram
+   
 ✔ AI-based insights and explanations
+
 ✔ Correlation detection
+
 ✔ Download professional PDF report with graphs
 
 ## 🔄 System Workflow
