@@ -1,4 +1,4 @@
-# 📊 Automatic Insights Generator
+# 📊 AutoInsight - Automated Data Pipeline and Analytics Engine
 ## 📌 Project Overview
 
 The Automatic Insights Generator is a web-based application that allows users to upload a dataset (CSV file) and automatically generate meaningful insights, visualizations, and a professional PDF report.
