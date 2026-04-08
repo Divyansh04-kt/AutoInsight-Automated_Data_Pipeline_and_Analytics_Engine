@@ -31,9 +31,9 @@ The system analyzes the data, identifies patterns, and presents results in both 
 ✔ Generate summary statistics (Total, Average, Min, Max)
 
 ✔ Create multiple graphs:
-Line Chart
-Bar Chart
-Pie Chart
+Line Chart,
+Bar Chart,
+Pie Chart,
 Histogram
    
 ✔ AI-based insights and explanations
